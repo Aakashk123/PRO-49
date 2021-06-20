@@ -1,0 +1,41 @@
+                   h1{
+                      color:red;
+                      
+                    }
+                    /* *{
+                       border:solid;
+                       }*/
+                    .header{
+                        background-color: lightblue;
+                        display:flex;
+                        justify-content: space-between;
+                    }
+
+                    .grid{
+                        display:flex;
+                        flex-wrap:wrap;   
+                        justify-content: space-evenly; 
+                    }
+                    .footer{
+                        display: flex;
+                        justify-content: flex-end;
+
+                    }
+                    .descripition{
+                        display: flex;
+                         flex-direction: column;
+                         justify-content: first baseline;
+                    } 
+                        p,h2{
+                          text-align: center;
+                        }
+                    body{
+                        background-color:rgb(100 ,123 ,110 ) ;
+                        }
+                    .item{
+                        font-size: x-large;
+                        font:italic;
+                        color: thistle;
+                        padding-left: 10%;
+                    }    
+        
